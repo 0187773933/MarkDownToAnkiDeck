@@ -158,7 +158,7 @@ katex_markdown_front = """
 # tried double escape curly braces and everything ... anki
 katex_markdown_back = """
 
-<div id="back"><pre>{{Back}}</pre></div>
+<div style="text-align: left;" id="back"><pre>{{Back}}</pre></div>
 
 <script>
 	var getResources = [
